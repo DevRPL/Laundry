@@ -1,0 +1,1 @@
+<link rel="shortcut icon" href="{{ asset('admin/default/assets/media/logos/favicon.ico') }}"/>
